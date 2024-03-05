@@ -1,0 +1,21 @@
+#Record data
+-Give list of historical times vs current
+
+#Add new exercises
+
+##Design changes:
+-History or Log
+-Dsiplay record of exercises
+
+##data
+-Store info for exercise
+-Stored on server OR in localStorage
+
+#Add new exercise
+# Create Exercise Screen
+-Name
+-Set of Checkboxes per attribute
+
+##data-Store "Custom Exercises" & add to set of "Default Exercises"
+
+#Fitness Advisor or Workout Planner
